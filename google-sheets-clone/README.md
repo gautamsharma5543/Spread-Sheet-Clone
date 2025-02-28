@@ -57,7 +57,7 @@ This project is a web application that mimics the user interface and core functi
 ## Setup Instructions
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/gautamsharma5543/Spread-Sheet-Clone/tree/main/google-sheets-clone
    ```
 2. Navigate to the project directory:
    ```
